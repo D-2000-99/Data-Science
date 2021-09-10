@@ -7,3 +7,6 @@ A comprehensive look into the kaggle dataset and ML model implementation.
 - Feature Engineering
 - Exploratory Data Analyisis
 - Model training and validation
+-- Random Forest
+-- XGBoost
+-- LightGBM
