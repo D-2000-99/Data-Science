@@ -1,4 +1,4 @@
-Digit Recognition - MNIST
+## Digit Recognition - MNIST
 
 ![Screenshot (390)](https://raw.githubusercontent.com/D-2000-99/Data-Science/main/Digit%20Recognition/Figure_1.png)
 
