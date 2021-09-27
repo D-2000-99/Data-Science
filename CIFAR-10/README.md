@@ -5,7 +5,7 @@ We will be trying out transfer learning techniques, namely VGG16 and ResNet50, a
 
 ![CIFAR](https://raw.githubusercontent.com/D-2000-99/Data-Science/main/CIFAR-10/example_cifar.png)
 
-Pipeline:  
+### Pipeline:  
 - Importing data
 - Preprocessing data
 - Transfer Learning:
