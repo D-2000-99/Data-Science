@@ -1,5 +1,7 @@
 # Resorts - Data Analysis
 Data analysis project assessing the reviews of various resorts over time and location.
+
+Sentiment Analysis was done with the the BERT model using the Huggin Face library.
 <br>
 Total reviews:
 <br>
