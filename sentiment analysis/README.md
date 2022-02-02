@@ -1,6 +1,7 @@
 # Resorts - Data Analysis with NLP(Sentiment Analysis)
 This is a Data analysis project assessing the reviews of various resorts over time and location. Sentiment Analysis was done with the the BERT model using the Huggin Face library.
-###Features:
+
+### Features:
 - NLP implemented with BERT
 - Data Visualization with pandas, matplotlib
 
@@ -9,6 +10,7 @@ This is a Data analysis project assessing the reviews of various resorts over ti
 Total reviews:
 <br>
 ![Total_review_ym](https://user-images.githubusercontent.com/68558063/152116897-16862fc7-3570-4fec-882e-fcc16b61059c.jpg)
+
 <br>
 Positive/Negative Reviews:
 <br>
