@@ -9,6 +9,7 @@ This is a Data analysis project assessing the reviews of various resorts over ti
 <br>
 Total reviews:
 <br>
+
 ![Total_review_ym](https://user-images.githubusercontent.com/68558063/152116897-16862fc7-3570-4fec-882e-fcc16b61059c.jpg)
 
 <br>
