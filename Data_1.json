@@ -4,10 +4,10 @@
     {
      "name": "Macro Data",
      "children": [
-      {"name": "Reddit", "value": 1000},
+      {"name": "Reddit", "value": 25000},
       {"name": "Experian", "value": 4000},
-      {"name": "Kogenta", "value": 2000},
-      {"name": "Environics", "value": 25000},
+      {"name": "Kogenta", "value": 29000},
+      {"name": "Environics", "value": 1000},
       {"name": "Accu Weather", "value": 4200},
       {"name": "Google Finance", "value": 200},
       {"name": "World Weather Online", "value": 13000},
