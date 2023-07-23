@@ -1,0 +1,101 @@
+{
+   "name": "MiQ Data Sources",
+   "children": [
+    {
+     "name": "Macro Data",
+     "children": [
+      {"name": "Reddit", "value": 7000},
+      {"name": "Experian", "value": 9000},
+      {"name": "Kogenta", "value": 7000},
+      {"name": "Environics", "value": 8000},
+      {"name": "Accu Weather", "value": 7200},
+      {"name": "Google Finance", "value": 5200},
+      {"name": "World Weather Online", "value": 13000},
+      {"name": "4C", "value": 7100},
+      {"name": "Hive Stack", "value": 7300},
+      {"name": "Vistar Media", "value": 4000},
+      {"name": "Kinetic", "value": 4500},
+      {"name": "Similarweb", "value": 7800},
+      {"name": "Scope3", "value": 7900},
+      {"name": "Adelaide", "value": 8200},
+      {"name": "International Showtimes", "value": 10500}
+     ]
+    },
+    {
+     "name": "Third-Party Data",
+     "children": [
+      {"name": "MOAT", "value": 20544},
+      {"name": "comScore", "value": 19788},
+      {"name": "IAS", "value": 10349},
+      {"name": "adloox", "value": 3301},
+      {"name": "Double Verify", "value": 19382},
+      {
+       "name": "render",
+       "children": [
+        {"name": "ArrowType", "value": 698},
+        {"name": "EdgeRenderer", "value": 5569},
+        {"name": "IRenderer", "value": 353},
+        {"name": "ShapeRenderer", "value": 2247}
+       ]
+      },
+      {"name": "ScaleBinding", "value": 11275},
+      {"name": "Tree", "value": 7147},
+      {"name": "TreeBuilder", "value": 9930}
+     ]
+    },
+    {
+     "name": "LLD Feeds",
+     "children": [
+      {
+       "name": "Xandr",
+       "children": [
+        {"name": "Impression Feed", "value": 4461},
+        {"name": "Pixel Feed", "value": 6314},
+        {"name": "Capture Feed", "value": 3444}
+       ]
+      },
+      {
+       "name": "TTD",
+       "children": [
+        {"name": "Impression Feed", "value": 3179},
+        {"name": "Click Feed", "value": 4060},
+        {"name": "Pixel Feed", "value": 4138},
+        {"name": "Conversion Attribution Feed", "value": 1690}
+       ]
+      },
+      {
+       "name": "DV 360",
+       "children": [
+        {"name": "FisheyeTreeFilter", "value": 5219},
+        {"name": "GraphDistanceFilter", "value": 3165},
+        {"name": "VisibilityFilter", "value": 3509}
+       ]
+      },
+      {"name": "IOperator", "value": 1286},
+      {
+       "name": "label",
+       "children": [
+        {"name": "Labeler", "value": 9956},
+        {"name": "RadialLabeler", "value": 3899},
+        {"name": "StackedAreaLabeler", "value": 3202}
+       ]
+      },
+      {
+       "name": "layout",
+       "children": [
+        {"name": "AxisLayout", "value": 6725},
+        {"name": "BundledEdgeRouter", "value": 3727},
+        {"name": "CircleLayout", "value": 9317},
+        {"name": "CirclePackingLayout", "value": 12003},
+        {"name": "DendrogramLayout", "value": 4853}
+       ]
+      },
+      {"name": "Operator", "value": 2490},
+      {"name": "OperatorList", "value": 5248},
+      {"name": "OperatorSequence", "value": 4190},
+      {"name": "OperatorSwitch", "value": 2581},
+      {"name": "SortOperator", "value": 2023}
+   ]
+  }
+ ]
+}
